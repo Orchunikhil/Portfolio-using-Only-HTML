@@ -7,13 +7,13 @@ Welcome to my personal portfolio! This project is a simple yet elegant portfolio
 - [About](#about)
 - [Features](#features)
 - [Getting Started](#getting-started)
-- [My Skills](#My Skills)
-- [Contact Me](#Contact Me)
-
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
 
 ## About
 
-This portfolio is designed to showcase my work and skills as a [Frontend Developer]. It's built entirely with HTML, making it lightweight and easy to customize.
+This portfolio is designed to showcase my work and skills as a Frontend Developer. It's built entirely with HTML, making it lightweight and easy to customize.
 
 ## Features
 
@@ -65,10 +65,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 Acknowledgments
 Thanks to the Open Source Community for inspiration.
 
-Your Name - Nikhil Orchu
+ Nikhil Orchu
 
 
-Replace the placeholder text such as `[Your Profession]`, `yourusername`, and other details with your actual information. This README provides a clear overview of the project and instructions on how to set it up and use it. 🚀😊
-
-Need more help? 😊
-[_{{{CITATION{{{_1{](https://github.com/Linadil/WhereIsMyMoney/tree/f7d45dea3
